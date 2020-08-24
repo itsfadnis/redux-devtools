@@ -1,6 +1,6 @@
 {
   "name": "redux-devtools-instrument",
-  "version": "1.9.7",
+  "version": "1.9.8",
   "description": "Redux DevTools instrumentation",
   "keywords": [
     "redux",
